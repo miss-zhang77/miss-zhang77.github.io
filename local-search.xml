@@ -4,16 +4,73 @@
   
   
   <entry>
-    <title>Hello World</title>
+    <title>如何使用本站</title>
     <link href="/2021/01/23/hello-world/"/>
     <url>/2021/01/23/hello-world/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>欢迎来到琪琪老师的物理世界，本站的设立旨在为琪琪老师的物理教学提供一个公共、开放的开源平台以备份琪琪老师的教学课件、资料等，以便同学们对资料进行回顾和自学。同学们可以点击以下链接进入相应的内容域查阅资料。</p><a id="more"></a><p>本站正在持续建设中，相关资料会逐步补充完善。</p><h2 id="八年级"><a href="#八年级" class="headerlink" title="八年级"></a>八年级</h2><h3 id="八年级上册"><a href="#八年级上册" class="headerlink" title="八年级上册"></a>八年级上册</h3><p><a href="/8-1/">八年级上册</a></p><h3 id="八年级下册"><a href="#八年级下册" class="headerlink" title="八年级下册"></a>八年级下册</h3><p><a href="/8-2/">八年级下册</a></p><h2 id="九年级"><a href="#九年级" class="headerlink" title="九年级"></a>九年级</h2><p><a href="/9/">九年级</a></p>]]></content>
     
     
     
   </entry>
   
+  
+  
+  
+  
+  
+  <entry>
+    <title>八年级 上册 物理教程</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<div class="markdown-body"><h1 id="八年级-上册-物理教程"><a href="#八年级-上册-物理教程" class="headerlink" title="八年级 上册 物理教程"></a>八年级 上册 物理教程</h1><h2 id="第一章-机械运动"><a href="#第一章-机械运动" class="headerlink" title="第一章 机械运动"></a>第一章 机械运动</h2><h3 id="第1节-长度和时间的测量"><a href="#第1节-长度和时间的测量" class="headerlink" title="第1节 长度和时间的测量"></a>第1节 长度和时间的测量</h3><h3 id="第2节-运动的描述"><a href="#第2节-运动的描述" class="headerlink" title="第2节 运动的描述"></a>第2节 运动的描述</h3><h3 id="第3节-运动的快慢"><a href="#第3节-运动的快慢" class="headerlink" title="第3节 运动的快慢"></a>第3节 运动的快慢</h3><h3 id="第4节-测量平均速度"><a href="#第4节-测量平均速度" class="headerlink" title="第4节 测量平均速度"></a>第4节 测量平均速度</h3><h2 id="第二章-声现象"><a href="#第二章-声现象" class="headerlink" title="第二章 声现象"></a>第二章 声现象</h2><h3 id="第1节-声音的产生与传播"><a href="#第1节-声音的产生与传播" class="headerlink" title="第1节 声音的产生与传播"></a>第1节 声音的产生与传播</h3><h3 id="第2节-声音的特性"><a href="#第2节-声音的特性" class="headerlink" title="第2节 声音的特性"></a>第2节 声音的特性</h3><h3 id="第3节-声的利用"><a href="#第3节-声的利用" class="headerlink" title="第3节 声的利用"></a>第3节 声的利用</h3><h3 id="第4节-噪声的危害和控制"><a href="#第4节-噪声的危害和控制" class="headerlink" title="第4节 噪声的危害和控制"></a>第4节 噪声的危害和控制</h3><h2 id="第三章-物态变化"><a href="#第三章-物态变化" class="headerlink" title="第三章 物态变化"></a>第三章 物态变化</h2><h3 id="第1节-温度"><a href="#第1节-温度" class="headerlink" title="第1节 温度"></a>第1节 温度</h3><h3 id="第2节-熔化和凝固"><a href="#第2节-熔化和凝固" class="headerlink" title="第2节 熔化和凝固"></a>第2节 熔化和凝固</h3><h3 id="第3节-汽化和液化"><a href="#第3节-汽化和液化" class="headerlink" title="第3节 汽化和液化"></a>第3节 汽化和液化</h3><h3 id="第4节-升华和凝华"><a href="#第4节-升华和凝华" class="headerlink" title="第4节 升华和凝华"></a>第4节 升华和凝华</h3><h2 id="第四章-光现象"><a href="#第四章-光现象" class="headerlink" title="第四章 光现象"></a>第四章 光现象</h2><h3 id="第1节-光的直线传播"><a href="#第1节-光的直线传播" class="headerlink" title="第1节 光的直线传播"></a>第1节 光的直线传播</h3><h3 id="第2节-光的反射"><a href="#第2节-光的反射" class="headerlink" title="第2节 光的反射"></a>第2节 光的反射</h3><h3 id="第3节-平面镜成像"><a href="#第3节-平面镜成像" class="headerlink" title="第3节 平面镜成像"></a>第3节 平面镜成像</h3><h3 id="第4节-光的折射"><a href="#第4节-光的折射" class="headerlink" title="第4节 光的折射"></a>第4节 光的折射</h3><h3 id="第5节-光的色散"><a href="#第5节-光的色散" class="headerlink" title="第5节 光的色散"></a>第5节 光的色散</h3><h2 id="第五章-透镜及其应用"><a href="#第五章-透镜及其应用" class="headerlink" title="第五章 透镜及其应用"></a>第五章 透镜及其应用</h2><h3 id="第1节-透镜"><a href="#第1节-透镜" class="headerlink" title="第1节 透镜"></a>第1节 透镜</h3><h3 id="第2节-生活中的透镜"><a href="#第2节-生活中的透镜" class="headerlink" title="第2节 生活中的透镜"></a>第2节 生活中的透镜</h3><h3 id="第3节-凸透镜成像的规律"><a href="#第3节-凸透镜成像的规律" class="headerlink" title="第3节 凸透镜成像的规律"></a>第3节 凸透镜成像的规律</h3><h3 id="第4节-眼睛和眼镜"><a href="#第4节-眼睛和眼镜" class="headerlink" title="第4节 眼睛和眼镜"></a>第4节 眼睛和眼镜</h3><h3 id="第5节-显微镜和望远镜"><a href="#第5节-显微镜和望远镜" class="headerlink" title="第5节 显微镜和望远镜"></a>第5节 显微镜和望远镜</h3><h2 id="第六章-质量与密度"><a href="#第六章-质量与密度" class="headerlink" title="第六章 质量与密度"></a>第六章 质量与密度</h2><h3 id="第1节-质量"><a href="#第1节-质量" class="headerlink" title="第1节 质量"></a>第1节 质量</h3><h3 id="第2节-密度"><a href="#第2节-密度" class="headerlink" title="第2节 密度"></a>第2节 密度</h3><h3 id="第3节-测量物质的密度"><a href="#第3节-测量物质的密度" class="headerlink" title="第3节 测量物质的密度"></a>第3节 测量物质的密度</h3><h3 id="第4节-密度与社会生活"><a href="#第4节-密度与社会生活" class="headerlink" title="第4节 密度与社会生活"></a>第4节 密度与社会生活</h3></div>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>八年级 下册 物理教程</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<div class="markdown-body"><h1 id="八年级-下册-物理教程"><a href="#八年级-下册-物理教程" class="headerlink" title="八年级 下册 物理教程"></a>八年级 下册 物理教程</h1><h2 id="第七章-力"><a href="#第七章-力" class="headerlink" title="第七章 力"></a>第七章 力</h2><h3 id="第1节-力"><a href="#第1节-力" class="headerlink" title="第1节 力"></a>第1节 力</h3><h3 id="第2节-弹力"><a href="#第2节-弹力" class="headerlink" title="第2节 弹力"></a>第2节 弹力</h3><h3 id="第3节-重力"><a href="#第3节-重力" class="headerlink" title="第3节 重力"></a>第3节 重力</h3><h2 id="第八章-运动和力"><a href="#第八章-运动和力" class="headerlink" title="第八章 运动和力"></a>第八章 运动和力</h2><h3 id="第1节-牛顿第一定律"><a href="#第1节-牛顿第一定律" class="headerlink" title="第1节 牛顿第一定律"></a>第1节 牛顿第一定律</h3><h3 id="第2节-二力平衡"><a href="#第2节-二力平衡" class="headerlink" title="第2节 二力平衡"></a>第2节 二力平衡</h3><h3 id="第3节-摩擦力"><a href="#第3节-摩擦力" class="headerlink" title="第3节 摩擦力"></a>第3节 摩擦力</h3><h2 id="第九章-压强"><a href="#第九章-压强" class="headerlink" title="第九章 压强"></a>第九章 压强</h2><h3 id="第1节-压强"><a href="#第1节-压强" class="headerlink" title="第1节 压强"></a>第1节 压强</h3><h3 id="第2节-液体的压强"><a href="#第2节-液体的压强" class="headerlink" title="第2节 液体的压强"></a>第2节 液体的压强</h3><h3 id="第3节-大气压强"><a href="#第3节-大气压强" class="headerlink" title="第3节 大气压强"></a>第3节 大气压强</h3><h3 id="第4节-流体压强与流速的关系"><a href="#第4节-流体压强与流速的关系" class="headerlink" title="第4节 流体压强与流速的关系"></a>第4节 流体压强与流速的关系</h3><h2 id="第十章-浮力"><a href="#第十章-浮力" class="headerlink" title="第十章 浮力"></a>第十章 浮力</h2><h3 id="第1节-浮力"><a href="#第1节-浮力" class="headerlink" title="第1节 浮力"></a>第1节 浮力</h3><h3 id="第2节-阿基米德原理"><a href="#第2节-阿基米德原理" class="headerlink" title="第2节 阿基米德原理"></a>第2节 阿基米德原理</h3><h3 id="第3节-物体的浮沉条件及应用"><a href="#第3节-物体的浮沉条件及应用" class="headerlink" title="第3节 物体的浮沉条件及应用"></a>第3节 物体的浮沉条件及应用</h3><h2 id="第十一章-功和机械能"><a href="#第十一章-功和机械能" class="headerlink" title="第十一章 功和机械能"></a>第十一章 功和机械能</h2><h3 id="第1节-功"><a href="#第1节-功" class="headerlink" title="第1节 功"></a>第1节 功</h3><h3 id="第2节-功率"><a href="#第2节-功率" class="headerlink" title="第2节 功率"></a>第2节 功率</h3><h3 id="第3节-动能和势能"><a href="#第3节-动能和势能" class="headerlink" title="第3节 动能和势能"></a>第3节 动能和势能</h3><h3 id="第4节-机械能及其转化"><a href="#第4节-机械能及其转化" class="headerlink" title="第4节 机械能及其转化"></a>第4节 机械能及其转化</h3><h2 id="第十二章-简单机械"><a href="#第十二章-简单机械" class="headerlink" title="第十二章 简单机械"></a>第十二章 简单机械</h2><h3 id="第1节-杠杆"><a href="#第1节-杠杆" class="headerlink" title="第1节 杠杆"></a>第1节 杠杆</h3><h3 id="第2节-滑轮"><a href="#第2节-滑轮" class="headerlink" title="第2节 滑轮"></a>第2节 滑轮</h3><h3 id="第3节-机械效率"><a href="#第3节-机械效率" class="headerlink" title="第3节 机械效率"></a>第3节 机械效率</h3></div>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>九年级 物理教程</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<div class="markdown-body"><h1 id="九年级-物理教程"><a href="#九年级-物理教程" class="headerlink" title="九年级 物理教程"></a>九年级 物理教程</h1><h2 id="第十三章-内能"><a href="#第十三章-内能" class="headerlink" title="第十三章 内能"></a>第十三章 内能</h2><h3 id="第1节-分子热运动"><a href="#第1节-分子热运动" class="headerlink" title="第1节 分子热运动"></a>第1节 分子热运动</h3><h3 id="第2节-内能"><a href="#第2节-内能" class="headerlink" title="第2节 内能"></a>第2节 内能</h3><h3 id="第3节-比热容"><a href="#第3节-比热容" class="headerlink" title="第3节 比热容"></a>第3节 比热容</h3><h2 id="第十四章-内能的利用"><a href="#第十四章-内能的利用" class="headerlink" title="第十四章 内能的利用"></a>第十四章 内能的利用</h2><h3 id="第1节-热机"><a href="#第1节-热机" class="headerlink" title="第1节 热机"></a>第1节 热机</h3><h3 id="第2节-热机的效率"><a href="#第2节-热机的效率" class="headerlink" title="第2节 热机的效率"></a>第2节 热机的效率</h3><h3 id="第3节-能量的转化和守恒"><a href="#第3节-能量的转化和守恒" class="headerlink" title="第3节 能量的转化和守恒"></a>第3节 能量的转化和守恒</h3><h2 id="第十五章-电流和电路"><a href="#第十五章-电流和电路" class="headerlink" title="第十五章 电流和电路"></a>第十五章 电流和电路</h2><h3 id="第1节-两种电荷"><a href="#第1节-两种电荷" class="headerlink" title="第1节 两种电荷"></a>第1节 两种电荷</h3><h3 id="第2节-电流和电路"><a href="#第2节-电流和电路" class="headerlink" title="第2节 电流和电路"></a>第2节 电流和电路</h3><h3 id="第3节-串联和并联"><a href="#第3节-串联和并联" class="headerlink" title="第3节 串联和并联"></a>第3节 串联和并联</h3><h3 id="第4节-电流的测量"><a href="#第4节-电流的测量" class="headerlink" title="第4节 电流的测量"></a>第4节 电流的测量</h3><h3 id="第5节-串、并联电路中电流的规律"><a href="#第5节-串、并联电路中电流的规律" class="headerlink" title="第5节 串、并联电路中电流的规律"></a>第5节 串、并联电路中电流的规律</h3><h2 id="第十六章-电压-电阻"><a href="#第十六章-电压-电阻" class="headerlink" title="第十六章 电压 电阻"></a>第十六章 电压 电阻</h2><h3 id="第1节-电压"><a href="#第1节-电压" class="headerlink" title="第1节 电压"></a>第1节 电压</h3><h3 id="第2节-串、并联电路中电压的规律"><a href="#第2节-串、并联电路中电压的规律" class="headerlink" title="第2节 串、并联电路中电压的规律"></a>第2节 串、并联电路中电压的规律</h3><h3 id="第3节-电阻"><a href="#第3节-电阻" class="headerlink" title="第3节 电阻"></a>第3节 电阻</h3><h3 id="第4节-变阻器"><a href="#第4节-变阻器" class="headerlink" title="第4节 变阻器"></a>第4节 变阻器</h3><h2 id="第十七章-欧姆定律"><a href="#第十七章-欧姆定律" class="headerlink" title="第十七章 欧姆定律"></a>第十七章 欧姆定律</h2><h3 id="第1节-电流与电压和电阻的关系"><a href="#第1节-电流与电压和电阻的关系" class="headerlink" title="第1节 电流与电压和电阻的关系"></a>第1节 电流与电压和电阻的关系</h3><h3 id="第2节-欧姆定律"><a href="#第2节-欧姆定律" class="headerlink" title="第2节 欧姆定律"></a>第2节 欧姆定律</h3><h3 id="第3节-电阻的测量"><a href="#第3节-电阻的测量" class="headerlink" title="第3节 电阻的测量"></a>第3节 电阻的测量</h3><h3 id="第4节-欧姆定律在串、并联电路中的应用"><a href="#第4节-欧姆定律在串、并联电路中的应用" class="headerlink" title="第4节 欧姆定律在串、并联电路中的应用"></a>第4节 欧姆定律在串、并联电路中的应用</h3><h2 id="第十八章-电功率"><a href="#第十八章-电功率" class="headerlink" title="第十八章 电功率"></a>第十八章 电功率</h2><h3 id="第1节-电能-电功"><a href="#第1节-电能-电功" class="headerlink" title="第1节 电能　电功"></a>第1节 电能　电功</h3><h3 id="第2节-电功率"><a href="#第2节-电功率" class="headerlink" title="第2节 电功率"></a>第2节 电功率</h3><h3 id="第3节-测量小灯泡的电功率"><a href="#第3节-测量小灯泡的电功率" class="headerlink" title="第3节 测量小灯泡的电功率"></a>第3节 测量小灯泡的电功率</h3><h3 id="第4节-焦耳定律"><a href="#第4节-焦耳定律" class="headerlink" title="第4节 焦耳定律"></a>第4节 焦耳定律</h3><h2 id="第十九章-生活用电"><a href="#第十九章-生活用电" class="headerlink" title="第十九章 生活用电"></a>第十九章 生活用电</h2><h3 id="第1节-家庭电路"><a href="#第1节-家庭电路" class="headerlink" title="第1节 家庭电路"></a>第1节 家庭电路</h3><h3 id="第2节-家庭电路中电流过大的原因"><a href="#第2节-家庭电路中电流过大的原因" class="headerlink" title="第2节 家庭电路中电流过大的原因"></a>第2节 家庭电路中电流过大的原因</h3><h3 id="第3节-安全用电"><a href="#第3节-安全用电" class="headerlink" title="第3节 安全用电"></a>第3节 安全用电</h3><h2 id="第二十章-电与磁"><a href="#第二十章-电与磁" class="headerlink" title="第二十章 电与磁"></a>第二十章 电与磁</h2><h3 id="第1节-磁现象-磁场"><a href="#第1节-磁现象-磁场" class="headerlink" title="第1节 磁现象　磁场"></a>第1节 磁现象　磁场</h3><h3 id="第2节-电生磁"><a href="#第2节-电生磁" class="headerlink" title="第2节 电生磁"></a>第2节 电生磁</h3><h3 id="第3节-电磁铁-电磁继电器"><a href="#第3节-电磁铁-电磁继电器" class="headerlink" title="第3节 电磁铁　电磁继电器"></a>第3节 电磁铁　电磁继电器</h3><h3 id="第4节-电动机"><a href="#第4节-电动机" class="headerlink" title="第4节 电动机"></a>第4节 电动机</h3><h3 id="第5节-磁生电"><a href="#第5节-磁生电" class="headerlink" title="第5节 磁生电"></a>第5节 磁生电</h3><h2 id="第二十一章-信息的传递"><a href="#第二十一章-信息的传递" class="headerlink" title="第二十一章 信息的传递"></a>第二十一章 信息的传递</h2><h3 id="第1节-现代顺风耳──电话"><a href="#第1节-现代顺风耳──电话" class="headerlink" title="第1节 现代顺风耳──电话"></a>第1节 现代顺风耳──电话</h3><h3 id="第2节-电磁波的海洋"><a href="#第2节-电磁波的海洋" class="headerlink" title="第2节 电磁波的海洋"></a>第2节 电磁波的海洋</h3><h3 id="第3节-广播、电视和移动通信"><a href="#第3节-广播、电视和移动通信" class="headerlink" title="第3节 广播、电视和移动通信"></a>第3节 广播、电视和移动通信</h3><h3 id="第4节-越来越宽的信息之路"><a href="#第4节-越来越宽的信息之路" class="headerlink" title="第4节 越来越宽的信息之路"></a>第4节 越来越宽的信息之路</h3><h2 id="第二十二章-能源与可持续发展"><a href="#第二十二章-能源与可持续发展" class="headerlink" title="第二十二章 能源与可持续发展"></a>第二十二章 能源与可持续发展</h2><h3 id="第1节-能源"><a href="#第1节-能源" class="headerlink" title="第1节 能源"></a>第1节 能源</h3><h3 id="第2节-核能"><a href="#第2节-核能" class="headerlink" title="第2节 核能"></a>第2节 核能</h3><h3 id="第3节-太阳能"><a href="#第3节-太阳能" class="headerlink" title="第3节 太阳能"></a>第3节 太阳能</h3><h3 id="第4节-能源与可持续发展"><a href="#第4节-能源与可持续发展" class="headerlink" title="第4节 能源与可持续发展"></a>第4节 能源与可持续发展</h3></div>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>关于本站</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<p>本站是琪琪老师创建并维护，用于与学生交流、备份课程资料的小站。</p><p>如需引用本站上任何材料、文字、图片、音视频多媒体等信息，请联系琪琪老师，否则有可能被认定为知识产权侵权。</p>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>教学点滴</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+  </entry>
   
   
   
